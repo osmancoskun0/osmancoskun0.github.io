@@ -1,0 +1,77 @@
+
+
+body  {
+
+    background-color: #EDE6DB;
+
+}
+
+#navbar {
+
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#list1 {
+
+
+    text-align: center;
+}
+
+
+section {
+
+
+    text-align: center;
+}
+
+
+ul,ol {
+    display: inline-block; 
+	text-align: left; 
+    list-style-type: none;
+}
+
+
+* {
+
+    font-family: 'Courgette', cursive;
+    font-family: 'Familjen Grotesk', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+
+    font-size: 50px;
+    color: #417D7A;
+
+}
+
+h2 {
+
+    font-size: 30px;
+    color: #1D5C63;
+
+}
+
+h3 {
+
+    font-size: 20px;
+    color: #1A3C40;
+
+}
+
+p   {
+
+    font-size: 20px;
+    color: red ;
+}
+
+#about  {   
+
+
+    color:steelblue;
+}
